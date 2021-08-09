@@ -42,7 +42,7 @@ workshops? Just [Do a propposal in our trello board](https://trello.com/b/xmHXBN
 
 * [July 16: Serverless Workshop series intro session](https://github.com/erasmodominguezdc/cloudnative-serverless-workshops/tree/deployments/workshops/knative-serving)   
 
-* [July 23: Knative Serving and Serverless Introduction]https://github.com/erasmodominguezdc/cloudnative-serverless-workshops/tree/deployments/workshops/knative-serving-autoscaling)
+* [July 23: Knative Serving and Serverless Introduction](https://github.com/erasmodominguezdc/cloudnative-serverless-workshops/tree/deployments/workshops/knative-serving-autoscaling)
 
 * [August 6: Knative Serving Traffic Management and Serverless Deployment Strategies](https://github.com/erasmodominguezdc/cloudnative-serverless-workshops/tree/deployments/workshops/knative-traffic-management)
 
