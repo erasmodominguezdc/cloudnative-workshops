@@ -6,8 +6,7 @@ a short, interactive presentation, followed by an open Q&A session to answer
 any questions you may have.
 
 ## Time and Place
-This workshop meets most Thursdays at 9:00am in the JICS Auditorium
-(5100 RM 128), and is open to any ORNL staff, students, and visitors.
+This workshop meets most Fridays at 11:00am GMT+1
 
 ### Put it on your Calendar!
 
